@@ -7,12 +7,12 @@ My work spans cloud platforms like Azure and GCP, and I thrive on solving comple
 
 ## Projects
 Here are some of my key projects:
-### 1. [MORAVELO AI](https://github.com/aymenesoualem/MORAVELO-AI)
+### 1. [MORAVELO AI](https://github.com/aymenesoualem/BookingAgent )
    ![ui](./assets/ui_screen.png)
    - **Description:** AI-powered project presented in a webinar.
    - **Technologies:** Generative AI, NLP, Azure OpenAI, Streamlit.
 
-### 2. [Stadiums Data Pipeline](https://github.com/aymenesoualem/stadiums-data-pipeline)
+### 2. [Stadiums Data Pipeline](https://github.com/aymenesoualem/football_azure_pipeline)
    ![Architecture](./assets/stadiums_architecture.png)
    - **Description:** A data pipeline analyzing global football stadiums using Azure.
    - **Technologies:** Azure Data Factory, Synapse Analytics, Airflow, Tableau.
