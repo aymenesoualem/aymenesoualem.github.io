@@ -3,6 +3,25 @@ I am a software engineer specializing in Data Engineering and Generative AI. My 
 optimizing cloud-based architectures, and leveraging AI to create intelligent solutions. With a strong foundation in distributed computing, 
 machine learning, and data analytics, I am passionate about transforming raw data into meaningful insights and innovative applications. 
 My work spans cloud platforms like Azure and GCP, and I thrive on solving complex problems with cutting-edge technologies.
+## Certifications
+[![GCP PDE](/assets/professional-data-engineer-certification.png)](https://www.credly.com/badges/b42b33ac-63bc-4db7-a3cb-cb9690248e8f/public_url "Google Cloud Professional Data Engineer Certification")
+[![GCP Associate Cloud Engineer](/assets/associate-cloud-engineer-certification.png)](https://www.credly.com/badges/d80c5298-9f16-40d6-8568-c5ef78e9b755/public_url "Google Cloud Associate Cloud Engineer Certification")
+## Work Experience
+
+### **Software Engineer (Data & AI) — Eviden (ATOS Group)**  
+📍 *09/2024 – Present | Casablanca, Morocco*  
+- Developed and maintained ETL batches and jobs, as well as web services for the end client (*La Poste France*).  
+- Implemented generative AI & cloud-based Proofs of Concept for the **Eviden GenAI** community.  
+- Participated in company-wide GenAI initiatives.  
+- **Technologies:** Java, Spring Boot, Spring Batch, Talend, Python, PL/SQL, Azure.  
+
+### **AI and Cloud Engineer (Final Year Internship) — Eviden (ATOS Group)**  
+📍 *03/2024 – 09/2024 | Casablanca, Morocco*  
+- Built and deployed an **intelligent system for administrative document consultation and onboarding** using generative AI.  
+- Conducted performance analysis of **open-source and closed-source LLMs**.  
+- Hosted **GenAI Connect** webinars within Eviden.  
+- Actively engaged in the **GenAI community at Eviden Morocco**.  
+- **Technologies:** React, FastAPI, Langchain, ChromaDB, Azure OpenAI, JavaScript, Python, Flutter.  
 
 
 ## Projects
