@@ -1,10 +1,8 @@
-# Personal Portfolio
-
-Welcome to my personal portfolio website! This site showcases my projects, skills, and experiences. You can view it live at [aymenesoualem.github.io](https://aymenesoualem.github.io).
-
-## About
-This portfolio highlights my work in data engineering, software development, and related fields. It includes detailed descriptions of projects, links to repositories, and demonstrations of my capabilities.
-
+## About me
+I am a software engineer specializing in Data Engineering and Generative AI. My expertise lies in building scalable data pipelines, 
+optimizing cloud-based architectures, and leveraging AI to create intelligent solutions. With a strong foundation in distributed computing, 
+machine learning, and data analytics, I am passionate about transforming raw data into meaningful insights and innovative applications. 
+My work spans cloud platforms like Azure and GCP, and I thrive on solving complex problems with cutting-edge technologies.
 ## Features
 - **Projects Showcase:** Detailed information about selected projects, including technologies used and challenges overcome.
 - **Skills Overview:** A comprehensive list of technical skills and proficiencies.
@@ -16,41 +14,25 @@ This portfolio highlights my work in data engineering, software development, and
 
 ## Projects
 Here are some of my key projects:
-
-### 1. [Stadiums Data Pipeline](https://github.com/aymenesoualem/stadiums-data-pipeline)
-   - **Description:** A data pipeline analyzing global football stadiums using Azure.
-   - **Technologies:** Azure Data Factory, Synapse Analytics, Airflow, Tableau.
-
-### 2. [Realtime Voting App](https://github.com/aymenesoualem/Realtime_voting_app)
-   - **Description:** A real-time voting system with data scraping, processing, and visualization.
-   - **Technologies:** Python, Apache Spark Streaming, PostgreSQL, Cassandra, Streamlit, Docker.
-
-### 3. [MORAVELO AI](https://github.com/aymenesoualem/MORAVELO-AI)
+### 1. [MORAVELO AI](https://github.com/aymenesoualem/MORAVELO-AI)
+   ![ui](./assets/ui_screen.png)
    - **Description:** AI-powered project presented in a webinar.
    - **Technologies:** Generative AI, NLP, Azure OpenAI, Streamlit.
 
-## Setup Instructions
-To run this project locally:
+### 2. [Stadiums Data Pipeline](https://github.com/aymenesoualem/stadiums-data-pipeline)
+   ![Architecture](./assets/stadiums_architecture.png)
+   - **Description:** A data pipeline analyzing global football stadiums using Azure.
+   - **Technologies:** Azure Data Factory, Synapse Analytics, Airflow, Tableau.
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/aymenesoualem/aymenesoualem.github.io.git
-   ```
-2. **Navigate to the Project Directory:**
-   ```bash
-   cd aymenesoualem.github.io
-   ```
-3. **Open the `index.html` File:**
-   - Use your preferred web browser to open `index.html` and explore the portfolio locally.
+### 3. [Realtime Voting App](https://github.com/aymenesoualem/Realtime_voting_app)
+   ![Architecture](./assets/voting_architecture.jpg)
+   - **Description:** A real-time voting system with data scraping, processing, and visualization.
+   - **Technologies:** Python, Apache Spark Streaming, PostgreSQL, Cassandra, Streamlit, Docker.
 
-## Contributing
-I welcome contributions to enhance this portfolio. If you have suggestions or improvements, please fork the repository and submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-Feel free to reach out via [email](mailto:your.email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile/).
+Feel free to reach out via [email](mailto:aymenesoualem360@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/aymene-soualem-39541b203/).
 
 ---
 Thank you for visiting my portfolio!
