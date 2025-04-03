@@ -29,7 +29,11 @@ Here are some of my key projects:
 ### 1. [MORAVELO AI](https://github.com/aymenesoualem/BookingAgent )
    ![ui](./assets/ui_screen.png)
    - **Description:** AI-powered project presented in a webinar.
-   - **Technologies:** Generative AI, NLP, Azure OpenAI, Streamlit.
+   - **Technologies:** Generative AI, OpenAI, Streamlit, Twilio, Tavily.
+### 2.[Newsletter Agent (Crewai)](https://github.com/aymenesoualem/newsletterAgent)
+   ![ui](./assets/Workflow.png)
+   - **Description:** AI-powered newsletter.
+   - **Technologies:** Generative AI, OpenAI, CrewAI.
 
 ### 2. [Stadiums Data Pipeline](https://github.com/aymenesoualem/football_azure_pipeline)
    ![Architecture](./assets/stadiums_architecture.png)
