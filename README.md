@@ -30,17 +30,18 @@ Here are some of my key projects:
    ![ui](./assets/ui_screen.png)
    - **Description:** AI-powered project presented in a webinar.
    - **Technologies:** Generative AI, OpenAI, Streamlit, Twilio, Tavily.
+
 ### 2.[Newsletter Agent (Crewai)](https://github.com/aymenesoualem/newsletterAgent)
    ![ui](./assets/Workflow.png)
    - **Description:** AI-powered newsletter.
    - **Technologies:** Generative AI, OpenAI, CrewAI.
 
-### 2. [Stadiums Data Pipeline](https://github.com/aymenesoualem/football_azure_pipeline)
+### 3. [Stadiums Data Pipeline](https://github.com/aymenesoualem/football_azure_pipeline)
    ![Architecture](./assets/stadiums_architecture.png)
    - **Description:** A data pipeline analyzing global football stadiums using Azure.
    - **Technologies:** Azure Data Factory, Synapse Analytics, Airflow, Tableau.
 
-### 3. [Realtime Voting App](https://github.com/aymenesoualem/Realtime_voting_app)
+### 4. [Realtime Voting App](https://github.com/aymenesoualem/Realtime_voting_app)
    ![Architecture](./assets/voting_architecture.jpg)
    - **Description:** A real-time voting system with data scraping, processing, and visualization.
    - **Technologies:** Python, Apache Spark Streaming, PostgreSQL, Cassandra, Streamlit, Docker.
